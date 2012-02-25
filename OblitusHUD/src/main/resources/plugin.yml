@@ -1,0 +1,5 @@
+name: OblitusHUD
+main: net.crossroadsgaming.oblitushud.OblitusHUD
+version: 0.01
+authors: [DrBowe]
+depend: [OblitusCore, Spout]
